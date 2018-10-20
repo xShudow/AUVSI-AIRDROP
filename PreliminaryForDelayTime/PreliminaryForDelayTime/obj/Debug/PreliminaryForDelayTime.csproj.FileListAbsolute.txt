@@ -1,0 +1,7 @@
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\bin\Debug\PreliminaryForDelayTime.exe.config
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\bin\Debug\PreliminaryForDelayTime.exe
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\bin\Debug\PreliminaryForDelayTime.pdb
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\obj\Debug\PreliminaryForDelayTime.csproj.CoreCompileInputs.cache
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\obj\Debug\PreliminaryForDelayTime.exe
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\obj\Debug\PreliminaryForDelayTime.pdb
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\PreliminaryForDelayTime\PreliminaryForDelayTime\obj\Debug\PreliminaryForDelayTime.csprojAssemblyReference.cache
