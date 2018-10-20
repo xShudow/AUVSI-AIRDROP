@@ -1,0 +1,7 @@
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\bin\Debug\AirdropLocation.exe.config
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\bin\Debug\AirdropLocation.exe
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\bin\Debug\AirdropLocation.pdb
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\obj\Debug\AirdropLocation.csprojAssemblyReference.cache
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\obj\Debug\AirdropLocation.csproj.CoreCompileInputs.cache
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\obj\Debug\AirdropLocation.exe
+D:\Schoolwork\AUVSI\AUVSI 2017-2018 Stuff\Visual S\AirdropLocation\AirdropLocation\obj\Debug\AirdropLocation.pdb
