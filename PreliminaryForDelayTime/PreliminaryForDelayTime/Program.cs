@@ -16,6 +16,9 @@ namespace PreliminaryForDelayTime
         double Weight;
         double Area;
         double CD;
+        double diameter;
+        double diameter_feet;
+        double diameter_inch;
 
         //static variables, only change based on location
         double rho0 = 0.00231636; // air density sealevel in slugs
@@ -25,16 +28,21 @@ namespace PreliminaryForDelayTime
         //*DEFINING VARIABLE VALUES HERE*
         public void DefineVariable()
         {
+            //parachute numbers
+            diameter_feet = 3; //ft
+            diameter_inch = 11; //in
+            diameter = diameter_feet+diameter_inch/12; //ft
+
             //variables for time1
-            delay = 2.75;//seconds before parachute can open
-            altitude = 150; // ft, airplane altitude from ground level
+            delay = 0;//seconds before parachute can open
+            altitude = 60; // ft, airplane altitude from ground level
 
             //variables for time2
-            v_terminal = -16.5; // ft/s, negative going down
             v0 = -1 * delay * g; // ft/s, negative going down
             Weight = 2.68; // lbs
-            Area = 4.987; // ft^2
+            Area = Math.PI*Math.Pow(((diameter*2)/(2*Math.PI)),2); // ft^2
             CD = 1.7; // drag coefficient of parachute
+            v_terminal = -Math.Sqrt((Weight*2)/(CD*rho0*Area)); // ft/s, negative going down
         }
 
         //myactualfuckingfunctionfortime1, in other words>yourfuckingdelaytime
@@ -144,6 +152,7 @@ namespace PreliminaryForDelayTime
             Console.WriteLine("DelayTime: {0}", Time1());
             Console.WriteLine("DragTime: {0}", Time2());
             Console.WriteLine("TerminalTime: {0}", Time3());
+            Console.WriteLine("TerminalTime: {0}", diameter);
         }
 
     }
